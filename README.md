@@ -77,3 +77,5 @@ from the command line enabling access from the 64-bit library
 libhashab32_wrapper program
 
 * **libhashab_original.so (MD5 = bb7180cb0c9cee2a605a5a276672913e):** Original libhashab.so file
+
+* **libhashab64_original.so (MD5 = 436395096a2ee028aaf9c8c53e682aaa):** Original libhashab64.so file
